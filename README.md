@@ -38,5 +38,25 @@ This is the AI/ML component of a financial management application, developed usi
 - Predict financial trends for the next 7 days using ML.
 
 
+<img width="1423" alt="Screenshot 2025-05-30 at 01 20 01" src="https://github.com/user-attachments/assets/7377f203-496a-4ac5-b628-5d9e6b86611a" />
+<img width="1411" alt="Screenshot 2025-05-30 at 01 20 22" src="https://github.com/user-attachments/assets/993c62c3-c91e-4b15-be9b-3604d8cb3d24" />
+<img width="1414" alt="Screenshot 2025-05-30 at 01 20 34" src="https://github.com/user-attachments/assets/4912f9a7-71e9-4ea9-8f86-9d8c66a4c9e8" />
+<img width="1418" alt="Screenshot 2025-05-30 at 01 20 42" src="https://github.com/user-attachments/assets/efbc51b9-7993-4b79-ab18-8fc036a0ba00" />
+<img width="1416" alt="Screenshot 2025-05-30 at 01 21 07" src="https://github.com/user-attachments/assets/4d791948-41d0-4f05-8c42-036cdedc45fd" />
+<img width="1420" alt="Screenshot 2025-05-30 at 01 21 27" src="https://github.com/user-attachments/assets/ab675599-4f66-4b5e-ab22-d287a226e3de" />
+<img width="1420" alt="Screenshot 2025-05-30 at 01 21 36" src="https://github.com/user-attachments/assets/8fd6895d-d027-405b-9b3c-0bb2231a6857" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
